@@ -1,2 +1,2 @@
 # local_repo
-Local repo for development
+Local repo for web development 
